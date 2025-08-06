@@ -1,4 +1,4 @@
-package core_oop.mypackage;
+package $01_core_oop.mypackage;
 
 public class Calculator {
     public int add(int a, int b) {

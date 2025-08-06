@@ -1,4 +1,4 @@
-package exception_and_concurrency;
+package $02_exception_and_concurrency;
 
 public class PrintTable {
     // The 'synchronized' keyword acts like a "lock". When one thread enters this

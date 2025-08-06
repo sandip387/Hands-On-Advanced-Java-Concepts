@@ -1,4 +1,4 @@
-package core_oop;
+package $01_core_oop;
 
 public class Circle implements Shape {
     private double radius;

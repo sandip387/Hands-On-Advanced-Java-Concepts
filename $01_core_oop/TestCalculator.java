@@ -1,6 +1,6 @@
-package core_oop;
+package $01_core_oop;
 
-import core_oop.mypackage.Calculator;
+import $01_core_oop.mypackage.Calculator;
 
 public class TestCalculator {
     public static void main(String[] args) {

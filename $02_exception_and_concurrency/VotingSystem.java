@@ -1,4 +1,4 @@
-package exception_and_concurrency;
+package $02_exception_and_concurrency;
 
 public class VotingSystem {
     static void validateAge(int age) throws InvalidAgeException {

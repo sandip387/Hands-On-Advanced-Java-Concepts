@@ -1,4 +1,4 @@
-package io_and_swing_basics;
+package $03_io_and_swing_basics;
 
 import java.io.Serializable;
 

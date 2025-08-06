@@ -1,4 +1,4 @@
-package swing_events;
+package $04_swing_events;
 
 import javax.swing.*;
 import java.awt.*;
