@@ -1,8 +1,26 @@
 {
-    "java.project.sourcePaths": [
-        "."
-    ],
-    "java.project.referencedLibraries": [
-        "d:\\Downloads\\mysql-connector-j-9.4.0\\mysql-connector-j-9.4.0\\mysql-connector-j-9.4.0.jar"
-    ]
+  "java.project.sourcePaths": ["."],
+  "java.project.referencedLibraries": [
+    "d:\\Downloads\\javafx-sdk-21.0.8\\lib\\javafx.base.jar",
+    "d:\\Downloads\\javafx-sdk-21.0.8\\lib\\javafx.controls.jar",
+    "d:\\Downloads\\javafx-sdk-21.0.8\\lib\\javafx.fxml.jar",
+    "d:\\Downloads\\javafx-sdk-21.0.8\\lib\\javafx.graphics.jar",
+    "d:\\Downloads\\javafx-sdk-21.0.8\\lib\\javafx.media.jar",
+    "d:\\Downloads\\javafx-sdk-21.0.8\\lib\\javafx.swing.jar",
+    "d:\\Downloads\\javafx-sdk-21.0.8\\lib\\javafx.web.jar",
+    "d:\\Downloads\\javafx-sdk-21.0.8\\lib\\javafx-swt.jar",
+    "d:\\Downloads\\mysql-connector-j-9.4.0\\mysql-connector-j-9.4.0\\mysql-connector-j-9.4.0.jar"
+  ],
+  // "java.configuration.runtimes": [
+  //   {
+  //     "name": "JavaSE-21",
+  //     "path": "C:\\Users\\sandi\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.7.6-hotspot",
+  //     "default": true,
+  //     "vmArgs": [
+  //       "--module-path",
+  //       "d:\\Downloads\\javafx-sdk-21.0.8\\lib",
+  //       "--add-modules=javafx.controls,javafx.fxml"
+  //     ]
+  //   }
+  // ]
 }
