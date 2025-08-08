@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Interest Calculator</title>
+  </head>
+  <body>
+    <h2>Simple Interest Calculator</h2>
+    <!-- Note the action now points to a .jsp file -->
+    <form action="calculate.jsp" method="post">
+      <table>
+        <tr>
+          <td>Principal:</td>
+          <td><input type="number" name="principal" required /></td>
+        </tr>
+        <tr>
+          <td>Time (years):</td>
+          <td><input type="number" name="time" required /></td>
+        </tr>
+        <tr>
+          <td>Rate (%):</td>
+          <td><input type="number" step="0.01" name="rate" required /></td>
+        </tr>
+        <tr>
+          <td colspan="2"><input type="submit" value="Calculate" /></td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
