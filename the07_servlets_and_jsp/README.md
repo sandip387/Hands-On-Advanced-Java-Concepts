@@ -57,7 +57,7 @@ This module requires a **Servlet Container** like Apache Tomcat to run. The foll
 
 ---
 
-### 📝 Past Paper Questions & Answers
+### Kye Concepts and Common Questions
 
 **Q1: Explain the servlet lifecycle.**
 The servlet container manages the entire lifecycle of a servlet instance.
