@@ -2,7 +2,7 @@ package $02_exception_and_concurrency;
 
 public class PrintTable {
     // The 'synchronized' keyword acts like a "lock". When one thread enters this
-    // metthod, no other thread can enter it (on the same object) until the first
+    // method, no other thread can enter it (on the same object) until the first
     // thread is finished. This prevents the outputs from mixing up.
     public synchronized void printTable(int n) {
         System.out.println("\n--- Printing Table for " + n + " ---");

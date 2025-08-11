@@ -21,7 +21,7 @@ This is a core networking concept and a frequent exam question.
 - **TCP (Transmission Control Protocol)** is **connection-oriented** and **reliable**. It establishes a dedicated connection (like a phone call) before data is sent. It guarantees that all data packets will arrive in the correct order and without errors. It's used for applications where data integrity is critical, like web browsing (HTTP), file transfers (FTP), and email.
 - **UDP (User Datagram Protocol)** is **connectionless** and **unreliable**. It simply sends packets (datagrams) to a destination without establishing a connection first (like sending a postcard). There is no guarantee of delivery, order, or error-checking. It's much faster and has less overhead, making it ideal for applications where speed is more important than perfect reliability, like online gaming, video streaming, and DNS lookups.
 
-**Q2: Write the steps for writing client and server programs using TCP. (From 2080, Model Set II Papers)**
+**Q2: Write the steps for writing client and server programs using TCP.**
 
 - **Server Side:**
   1.  Create a `ServerSocket` object, binding it to a specific port number (`ServerSocket ss = new ServerSocket(port);`).
